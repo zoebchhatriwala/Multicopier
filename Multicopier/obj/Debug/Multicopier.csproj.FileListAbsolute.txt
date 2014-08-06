@@ -1,0 +1,18 @@
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\Multicopier\Multicopier\bin\Debug\Multicopier.exe.config
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\Multicopier\Multicopier\bin\Debug\Multicopier.exe
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\Multicopier\Multicopier\bin\Debug\Multicopier.pdb
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.csprojResolveAssemblyReference.cache
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.Home.resources
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.Properties.Resources.resources
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.csproj.GenerateResource.Cache
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.exe
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.pdb
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\Multicopier\Multicopier\bin\Debug\Multicopier.exe.config
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.exe
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.pdb
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\Multicopier\Multicopier\bin\Debug\Multicopier.exe
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\Multicopier\Multicopier\bin\Debug\Multicopier.pdb
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.csprojResolveAssemblyReference.cache
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.Home.resources
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.Properties.Resources.resources
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\Multicopier\Multicopier\obj\Debug\Multicopier.csproj.GenerateResource.Cache
